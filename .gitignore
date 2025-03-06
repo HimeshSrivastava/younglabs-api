@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Logs
+logs/
+*.log
+logs/*.log
+debug.log
+error.log
+
+# Build files
+dist/   
+.cache/
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
