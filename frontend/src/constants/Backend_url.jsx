@@ -1,1 +1,1 @@
-export const Backend_url="http://localhost:5000"
+export const Backend_url="https://younglabs-api-backend.onrender.com"
